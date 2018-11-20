@@ -1,0 +1,3 @@
+python3 c2w_test_tcp_server.py --scenario one_user_login_tcp_server_framing_1by1_test;
+python3 c2w_test_tcp_server.py --scenario one_user_full_login_tcp_server_test;
+python3 c2w_test_tcp_client.py --scenario one_user_login_tcp_client_framing_2by2_test;

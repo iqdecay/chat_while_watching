@@ -1,0 +1,2 @@
+Connecting with duplicate username leaves the user hangin
+

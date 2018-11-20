@@ -1,0 +1,6 @@
+python3 c2w_test_udp_server.py --scenario one_user_login_udp_server_test;
+python3 c2w_test_udp_server.py --scenario one_user_full_login_udp_server_test;
+python3 c2w_test_udp_server.py --scenario one_user_login_retransmit_udp_server_test;
+python3 c2w_test_udp_client.py --scenario one_user_login_udp_client_test;
+python3 c2w_test_udp_client.py --scenario one_user_login_retransmit_udp_client_test;
+python3 c2w_test_udp_client.py --scenario one_user_login_retransmit_duplicate_ack_udp_client_test;
